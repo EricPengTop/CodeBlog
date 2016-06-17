@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.3"
 
     defaultConfig {
-        applicationId "com.codeblog"
+        applicationId "com.feel.codeblog"
         minSdkVersion 15
         targetSdkVersion 23
         versionCode 1
