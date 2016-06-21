@@ -6,5 +6,13 @@
     tools:context=".ui.ActLogin">
 
 
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="30dp"
+        android:src="@mipmap/ic_launcher"/>
+
 
 </RelativeLayout>
