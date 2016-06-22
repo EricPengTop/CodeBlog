@@ -1,6 +1,5 @@
 package com.feel.codeblog.ui;
 
-import android.graphics.Paint;
 import android.os.Build;
 import android.os.Bundle;
 import android.view.View;

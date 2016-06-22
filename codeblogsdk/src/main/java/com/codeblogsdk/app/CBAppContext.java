@@ -1,4 +1,4 @@
-package com.codeblog.codeblogsdk.app;
+package com.codeblogsdk.app;
 
 import android.content.Context;
 import android.os.Handler;

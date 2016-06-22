@@ -1,4 +1,4 @@
-package com.codeblog.codeblogsdk;
+package com.codeblogsdk;
 
 import org.junit.Test;
 
